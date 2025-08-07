@@ -1,7 +1,10 @@
 # SmartApiGenerator
 
 [![Latest Version](https://img.shields.io/github/v/release/sadik254/smart-api-generator?style=flat-square)](https://github.com/sadik254/smart-api-generator/releases)  
-[![License](https://img.shields.io/github/license/sadik254/smart-api-generator?style=flat-square)](LICENSE)  
+[![License](https://img.shields.io/github/license/sadik254/smart-api-generator?style=flat-square)](LICENSE) 
+[![Latest Version on Packagist](https://img.shields.io/packagist/v/sadik254/smart-api-generator.svg?style=flat-square)](https://packagist.org/packages/sadik254/smart-api-generator)
+[![Total Downloads](https://img.shields.io/packagist/dt/sadik254/smart-api-generator.svg?style=flat-square)](https://packagist.org/packages/sadik254/smart-api-generator)
+
 
 A Laravel package to quickly generate API scaffolding — model, migration, controller, and routes — with customizable fields and validation, saving you repetitive work.
 
